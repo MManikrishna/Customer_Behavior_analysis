@@ -49,6 +49,9 @@ The dataset contains **3,900 purchase records** and **18 columns**.
 - Size
 - Color
 
+  <img width="1316" height="748" alt="Screenshot 2026-09-12 204259" src="https://github.com/user-attachments/assets/15890155-e966-4cff-83a1-99e73e2c8810" />
+
+
 #### Shopping Behavior
 - Discount Applied
 - Promo Code Used
